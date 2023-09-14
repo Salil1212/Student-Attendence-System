@@ -1,4 +1,4 @@
-
+// This is student attendence system using sqlite3 to fetch details from database 
 #include <iostream>
 #include <sqlite3.h>
 #include <string>
